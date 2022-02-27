@@ -1,17 +1,5 @@
 # HGSO_ICU_Predictor
-
-
-
-
-
-
-
-
-
-
-
-
-
+This repository contains code for the paper titled "An Improved Machine Learning Approach for COVID-19 Prediction using Harris Hawks Optimization and Feature Analysis using SHAP", which has been submitted to Diagnostics. The overall graphical block diagram of our proposed approached is illustrated in Figure below.
 
 
 
