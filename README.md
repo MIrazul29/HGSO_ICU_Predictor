@@ -1,14 +1,6 @@
 # HGSO_ICU_Predictor
-This repository contains code for the paper titled "________________________________", which has been submitted to ___________. The overall graphical block diagram of our proposed approached is illustrated in Figure below.
-
-
-
-
-
-
-
-
-
+This repository contains code for the paper titled "HGSOXGB: Hunger Games Search Optimization-Based Frameworkto Predict the Needs of ICU for COVID-19 Patient using eXtremeGradient Boosting". The overall graphical block diagram of our proposed approached is illustrated in Figure below.
+![sys](https://user-images.githubusercontent.com/81968951/156035877-6ddd6164-814b-4b05-9ce5-1fc1f4fc909d.PNG)
 
 # Folder description:
 ###### HHO-ML: 
