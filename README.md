@@ -1,9 +1,9 @@
 # HGSO_ICU_Predictor
 This repository contains code for the paper titled "HGSOXGB: Hunger Games Search Optimization-Based Frameworkto Predict the Needs of ICU for COVID-19 Patient using eXtremeGradient Boosting". The overall graphical block diagram of our proposed approached is illustrated in Figure below.
-![sys](https://user-images.githubusercontent.com/81968951/156035877-6ddd6164-814b-4b05-9ce5-1fc1f4fc909d.PNG)
+![Work Flow](https://github.com/MIrazul29/HGSO_ICU_Predictor/assets/81968951/d768d9aa-65cb-4c68-8ac9-5feb08be9de8)
 
 # Folder description:
-###### HHO-ML: 
+######  HGSO_ICU_Predictor: 
 There are in total four folders in HGSO_ICU_Predictor.This was tested in python  3.8.12 version.<br />
 1.[Code](https://github.com/genos29/HGSO_ICU_Predictor/tree/main/Code) folder contains python code for HGSO_ICU_Predictor. <br />
 2.[Preprocessed_data](https://github.com/genos29/HGSO_ICU_Predictor/tree/main/Preprocessed_data) folder has preprocessed data of covid patients.<br />
